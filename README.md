@@ -1,7 +1,7 @@
 
 # What’s the weather application
 
-I implemented this application using web content from www.weather-forecast.com. Then, I made networking calls using NSURLSession and parsing the resulting JSON.
+I implemented this application using web content from www.weather-forecast.com because it took just a few lines of Swift3 code to load the contents of a website URL. Then, I made networking calls using NSURLSession and parsing the resulting JSON.
 
 # User Interface
 
